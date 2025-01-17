@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Hello, my name is **David Castro**. I am a **Computer Science major** at [Wright State University](https://www.wright.edu).
+Hello, my name is **David Castro**. I am a Junior studying **Computer Science** at [Wright State University](https://www.wright.edu).
 
 Two projects I am working on this semester are:
 
