@@ -1,5 +1,9 @@
-## Hi there ????
+## Hi there! 👋
 
-Hello my name is David, I am a computer science major ok goodbye now! 
+Hello, my name is **David Castro**. I am a **Computer Science major**.
 
+Two projects I am working on this semester are:
 
+- 🤖 **A Facebook bot** I created a few years ago and have been adding to ever since - I need to rewrite it because it was very badly thrown together and it's getting harder and harder to maintain.
+
+- 🛠️ **An Arduino robot** that I'm gonna connect to OpenAI's API.
