@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hello, friends! 👋
 
 Hello, my name is **David Castro**. I am a 3rd-year student earning a **Bachelor of Science in Computer Science (BSCS)** at [Wright State University](https://www.wright.edu).
 
