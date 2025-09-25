@@ -35,11 +35,11 @@ Projects related to the [Knowledge and Semantic Technologies Laboratory](https:/
 Measured embedding drift between triples, using TransE with a fixed seed for reproducibility, on the FB15k-237, FB15k-238, and FB15k-239 datasets. Generated plots and visualizations using pyplot, t-SNE, and UMAP.
 
 ### 🤖 [Facebook bot](https://github.com/castey/facebook-chat-bot)
-I created this a few years ago using node.js, openai, and an unofficial [Facebook API](https://github.com/Schmavery/facebook-chat-api) and have been adding to it ever since - I'm in the process of rewriting it because it was very badly thrown together and got harder and harder to maintain.<br><br>Uses embeddings and cosine similarity to operate as a retrieval-augmented generation (RAG) model on top of GPT4, making it capable of having long term memory outside of its given context window. The retrieval is done just by interactng with a mysql database and brute forcing the cosine similarity comparisons, but eventually I'd like to use a better method like ANNOY. As this will become increasingly and eventually, painfully inefficient.<br><br>Embeddings are done with [TensorFlow Universal Sentence Encoder](https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder). I don't have the project in a public repo yet since I'm building it off a private fork of the Facebook API that includes mission critical fixes by [robertlockesoftware](https://github.com/robertlockesoftware). Eventually I'll get around to uploading it standalone.
+Created this a few years ago using node.js and openai. Based an a private fork of the [Unofficial Facebook Chat API](https://github.com/Schmavery/facebook-chat-api) with mission critical fixes by [robertlockesoftware](https://github.com/robertlockesoftware). 
 
 ### 💻 [RAG bot using semantic embeddings and GPT-4](https://github.com/castey/ragBot)
 
-RAG portion of the Facebook bot.
+Uses embeddings and cosine similarity to operate as a retrieval-augmented generation (RAG) model on top of GPT4, making it capable of having long term memory outside of its given context window. The retrieval is done just by interactng with a mysql database and brute forcing the cosine similarity comparisons. Embeddings are done with [TensorFlow Universal Sentence Encoder](https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder). 
 
 ### 🛠️ An Arduino robot
 Learned some fundamentals of arduinos
