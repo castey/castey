@@ -10,7 +10,7 @@ President of the [Society for Hispanic Professional Engineers](https://wright.ca
 
 Projects related to the [Knowledge and Semantic Technologies Laboratory](https://kastle.cs.wright.edu/) at Wright State University. 
 
-- [Representing knowledge graph entities and outputting a knowledge graph of that processed representation.](https://github.com/castey/CodeForKastle/tree/main/windower)
+- [Toward understanding latent spaces in knowledge graph embeddings on synthetic datasets](https://github.com/castey/CodeForKastle/tree/main/windower)
 
 - [Downloading scientific papers programmatically from various publications.](https://github.com/castey/CodeForKastle/tree/main/paper-scraper)
 
