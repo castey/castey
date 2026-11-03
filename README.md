@@ -1,43 +1,17 @@
-# Hello 👋
+# About 👋
 
-Hi, my name is **David Castro**. I am a 3rd-year computer science student earning a **Bachelor of Science (BSCS)** at [Wright State University](https://www.wright.edu) with a minor in psychology.
+- Name: David Castro
+- Major: Computer Science 
+- Minor: Psychology
+- University: Wright State
+- Graduating: Spring 2027
 
-## Fall Semester Projects 
+## Current Roles
+- Scientific Programmer - [KASTLE Lab](https://kastle-lab.github.io/)
+- Teaching Assistant - Logic for Computer Scientists CS-2210
+- Founder/President - Make Anything: An Arts and STEM Collaboration
+- Cofounder - Wright State Chess Club
 
-### KastleLab Projects
+## Publications
+- [Investigating Latent Representations under Structured Sampling and Constraints](https://kg-nesy.github.io/paper/kgnesy-paper19.pdf)
 
-Projects related to the [Knowledge and Semantic Technologies Laboratory](https://kastle.cs.wright.edu/) at Wright State University. 
-
-- [Toward understanding latent spaces in knowledge graph embeddings on synthetic datasets](https://github.com/castey/CodeForKastle/tree/main/windower)
-
-- [Downloading scientific papers programmatically from various publications.](https://github.com/castey/CodeForKastle/tree/main/paper-scraper)
-
-### Extracurriculars
-- [Project to turn the stairs in the atrium of the Russ Engineering Building into a piano staircase.](https://github.com/BoffinFactory/PianoStaircase)
-
-### Coursework
-
-- CEG-4110 Intro to Software Engineering: web application to determine graduation timelines given some major/minor and co-op options. (private repo)
-
-- CEG-3310 Computer Organization: LC-3 assembly.
-
-- EGR-3350 Technical Communications for Engineers and Computer Scientists.
-
-- CS-2210 Logic for Computer Scientists.
-
-- STT-3700 Intro to Statisical Inference: calculus based stats class.
-
-## Past Projects:
-
-### 🔬 [Independent Study Project Investigating drift in knowledge graph embeddings](https://github.com/castey/KGE-IS) 
-Measured embedding drift between triples, using TransE with a fixed seed for reproducibility, on the FB15k-237, FB15k-238, and FB15k-239 datasets. Generated plots and visualizations using pyplot, t-SNE, and UMAP.
-
-### 🤖 [Facebook bot](https://github.com/castey/facebook-chat-bot)
-Created this a few years ago using node.js and openai. Based an a private fork of the [Unofficial Facebook Chat API](https://github.com/Schmavery/facebook-chat-api) with mission critical fixes by [robertlockesoftware](https://github.com/robertlockesoftware). 
-
-### 💻 [RAG bot using semantic embeddings and GPT-4](https://github.com/castey/ragBot)
-
-Uses embeddings and cosine similarity to operate as a retrieval-augmented generation (RAG) model on top of GPT4, making it capable of having long term memory outside of its given context window. The retrieval is done just by interactng with a mysql database and brute forcing the cosine similarity comparisons. Embeddings are done with [TensorFlow Universal Sentence Encoder](https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder). 
-
-### 🛠️ An Arduino robot
-Learned some fundamentals of arduinos
