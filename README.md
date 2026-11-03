@@ -3,7 +3,7 @@
 - Name: David Castro
 - Major: Computer Science 
 - Minor: Psychology
-- University: Wright State
+- Institution: Wright State University
 - Graduating: Spring 2027
 
 ## Current Roles
@@ -11,6 +11,9 @@
 - Teaching Assistant - Logic for Computer Scientists CS-2210
 - Founder/President - Make Anything: An Arts and STEM Collaboration
 - Cofounder - Wright State Chess Club
+
+## Education 
+- Associate of Science, Computer Science - Sinclair Community College (2024)
 
 ## Publications
 - [Investigating Latent Representations under Structured Sampling and Constraints](https://kg-nesy.github.io/paper/kgnesy-paper19.pdf)
