@@ -11,8 +11,8 @@
 ## Current Roles
 - Scientific Programmer - [KASTLE Lab](https://kastle-lab.github.io/)
 - Teaching Assistant - Logic for Computer Scientists CS-2210
-- Founder/President - Make Anything: An Arts and STEM Collaboration
-- Cofounder - Wright State Chess Club
+- President - Make Anything: An Arts and STEM Collaboration
+- Treasurer - Wright State Chess Club
 
 ## Education 
 - Associate of Science, Computer Science - Sinclair Community College (2024)
