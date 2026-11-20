@@ -1,10 +1,12 @@
 # About 👋
 
 - Name: David Castro
+- Level: Bachelor's
 - Major: Computer Science 
 - Minor: Psychology
 - Institution: Wright State University
 - Graduating: Spring 2027
+
 
 ## Current Roles
 - Scientific Programmer - [KASTLE Lab](https://kastle-lab.github.io/)
