@@ -6,6 +6,7 @@
 - Minor: Psychology
 - Institution: Wright State University
 - Graduating: Spring 2027
+- [Résumé](./resume.pdf)
 
 
 ## Current Roles
